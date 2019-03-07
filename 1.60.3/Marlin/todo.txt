@@ -1,0 +1,5 @@
+todo.txt
+
+line 832 - uncomment //#define FILAMENT_RUNOUT_SENSOR
+
+884 - comment out #define AUTO_BED_LEVELING_BILINEAR
